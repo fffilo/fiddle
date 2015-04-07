@@ -1,4 +1,7 @@
-window.app        = window.app        || {}
+// to do - replace cookie with local storage (if supported)
+// save html,js,css code to local storage (if supported)
+
+window.app        = window.app || {}
 window.app.config = {
 	initTimeout: 500,
 	handler: {
